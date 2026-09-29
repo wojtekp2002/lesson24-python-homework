@@ -1,0 +1,16 @@
+Biblioteka Miejska - ul. Pythonowa 3
+
+Kolekcja książek:
+- Czysty kod, Robert C. Martin, ISBN 9780132350884
+- Python. Wprowadzenie, Mark Lutz, ISBN 9788328348811
+- Automate the Boring Stuff, Al Sweigart, ISBN 9781593279929
+
+Wypożyczam książkę czytelnikowi R001...
+Wypożyczenia czytelnika R001:
+- Czysty kod
+
+Wyniki wyszukiwania po autorze 'Lutz':
+- Python. Wprowadzenie (2018)
+
+Zwracam książkę...
+Liczba wypożyczeń R001: 0
